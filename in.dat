@@ -1,0 +1,42 @@
+//eng
+2;IIT Mumbai;Main Gate Road Mumbai;9876874534;NATIONAL;YES
+4;North Arizona College;Arizona USA;5713317279;INTERNATIONAL;YES
+5;Virginia Tech Institute;Virginia USA;4872113213;INTERNATIONAL;NO
+6;BITS Pilani;Pilani Rajasthan;01596245073;NATIONAL;YES
+
+
+//med
+1;AIIMS;New Delhi;01124107160;NATIONAL;NO
+2;DSR Institute;Hyderabad Telengana;04023000472;NATIONAL;YES
+3;Florida University;Florida USA;3814413113;INTERNATIONAL;YES
+4;Nevada College;Las Vegas USA;2214302102;INTERNATIONAL;YES
+
+
+//management
+1;ACN College;Aligarh Uttar Pradesh;9456618910;NATIONAL;YES
+2;Aditya MBA College;Beed Maharahtra;02442222793;NATIONAL;NO
+3;Drake University;New Hampshire USA;2114213210;INTERNATIONAL;YES
+4;St John College;Washington DC USA;2103114210;INTERNATIONAL;NO
+
+
+//law
+3;Salgaokar College;Miramar Goa;08322222111;NATIONAL;NO
+4;DSR Law College;West Durg Chattisgarh;07884039782;NATIONAL;NO
+5;Michigan University;East Lansing Michigan;3214306230;INTERNATIONAL;YES
+6;Cornell Law School;New York USA;3114306120;INTERNATIONAL;YES
+
+
+//Journalism
+1;ASMR College;Mathura Uttar Pradesh;9997387322;NATIONAL;NO
+2;Chandigarh University;Mohali Punjab;016030044445;NATIONAL;NO
+3;Plattsburg University;Plattsburg USA;2144213610;INTERNATIONAL;YES
+4;Kentucky University;Kentucky USA;2104203630;INTERNATIONAL;YES
+
+
+//design
+1;Aishwarya Institute;Udaipur Rajasthan;02942471962;NATIONAL;NO
+2;ACN College;Aligarh Uttar Pradesh;9997936452;NATIONAL;YES
+3;Virginia College;Virginia USA;2114116340;INTERNATIONAL;YES
+
+
+
